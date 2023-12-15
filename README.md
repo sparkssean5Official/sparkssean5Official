@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sparkssean5Official
+- 👀 I’m interested in: CS:2
+- 🌱 I’m currently learning: JavaScript
+- 💞️ I’m looking to collaborate on: Roblox Scripting
+- 📫 How to reach me: sparkssean5yt@gmail.com
